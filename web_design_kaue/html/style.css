@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #808080;
+
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    padding: auto;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: #000000;
+}
+
+h1 {
+    color: #8a2be2;
+    padding: 0.5rem;
+
+}
+
+   #banner img {
+
+    width: 100px;
+    
+    
+
+
+    }
