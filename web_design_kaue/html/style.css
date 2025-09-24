@@ -11,6 +11,7 @@ ul {
     margin: 0;
     box-sizing: border-box;
     padding: 0;
+    
 }
 
 ul li {
@@ -24,6 +25,9 @@ ul li a {
     padding: 14px 16px;
     padding: auto;
     text-decoration: none;
+    text-align: center;
+    position: relative;
+    left: 850px;
 }
 
 ul li a:hover {
@@ -39,8 +43,30 @@ h1 {
    #banner img {
 
     width: 100px;
+    position: relative;
+    left: 700px;
     
     
 
 
+    }
+
+    #texto {
+        position: relative;
+        left: 500px;
+        width: 900px;
+        background-color: #808080;
+        padding: 10px;
+        float: left;
+        font-size: 40px;
+        border-radius: 35px;
+        text-align: center;
+ 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        
+        
+
+
+        
     }
